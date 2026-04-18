@@ -1,9 +1,9 @@
 import streamlit as st
-from dbhelper import DB
+from dbhelper import Database
 import plotly.express as px
 import plotly.graph_objects as go
 
-db = DB()
+db = Database()
 
 st.sidebar.title('Flight Analytics')
 
