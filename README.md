@@ -36,7 +36,11 @@ Instead of just writing SQL queries, I wanted to present the data in a more mean
 ### 🔍 Flight Search
 
 Select source and destination to view available flights.
+## 📊 Key Insights
 
+- Some airlines dominate flight frequency
+- Certain cities act as major travel hubs
+- Flight frequency varies across different dates
 ### 🥧 Airline Distribution
 
 Visual representation of how flights are distributed across airlines.
@@ -48,6 +52,12 @@ Bar chart showing airports with highest traffic.
 ### 📈 Daily Trends
 
 Line chart to track number of flights over time.
+
+## 📊 Key Insights
+
+- Some airlines dominate flight frequency
+- Certain cities act as major travel hubs
+- Flight frequency varies across different dates
 
 ---
 
