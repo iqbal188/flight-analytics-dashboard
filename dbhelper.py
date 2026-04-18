@@ -1,6 +1,6 @@
 import mysql.connector
 
-class DB:
+class Database:
     def __init__(self):
         # connect to the database
         try:
